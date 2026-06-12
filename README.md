@@ -23,7 +23,8 @@ This project analyzes road accident data using Microsoft Excel.
 - Casualty trends visualized
 
 ## Dashboard Preview
-(Add Screenshot Here)
+<img width="1172" height="647" alt="image" src="https://github.com/user-attachments/assets/036b456e-fabc-4073-b49c-779c3af5dcd3" />
+
 
 ## Author
 Nilima Suryavanshi
